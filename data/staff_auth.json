@@ -1,0 +1,27 @@
+[
+    {
+        "id": "STF001",
+        "username": "ravi.k",
+        "password": "Ravi@123"
+    },
+    {
+        "id": "STF002",
+        "username": "suresh.b",
+        "password": "Suresh@123"
+    },
+    {
+        "id": "STF003",
+        "username": "anjali.r",
+        "password": "Anjali@123"
+    },
+    {
+        "id": "STF004",
+        "username": "manoj.v",
+        "password": "Manoj@123"
+    },
+    {
+        "id": "STF005",
+        "username": "priya.s",
+        "password": "Priya@123"
+    }
+]

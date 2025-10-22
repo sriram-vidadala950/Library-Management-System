@@ -1,0 +1,102 @@
+[
+    {
+        "id": "USR001",
+        "name": "Arjun Reddy",
+        "age": 22,
+        "gender": "Male",
+        "contact": "9012345678",
+        "email": "arjun.reddy@example.com",
+        "address": "Hyderabad, Telangana",
+        "membership_type": "Regular"
+    },
+    {
+        "id": "USR002",
+        "name": "Sneha Sharma",
+        "age": 24,
+        "gender": "Female",
+        "contact": "9012345679",
+        "email": "sneha.sharma@example.com",
+        "address": "Bangalore, Karnataka",
+        "membership_type": "Premium"
+    },
+    {
+        "id": "USR003",
+        "name": "Rohan Kumar",
+        "age": 20,
+        "gender": "Male",
+        "contact": "9012345680",
+        "email": "rohan.kumar@example.com",
+        "address": "Chennai, Tamil Nadu",
+        "membership_type": "Regular"
+    },
+    {
+        "id": "USR004",
+        "name": "Ananya Verma",
+        "age": 21,
+        "gender": "Female",
+        "contact": "9012345681",
+        "email": "ananya.verma@example.com",
+        "address": "Mumbai, Maharashtra",
+        "membership_type": "Premium"
+    },
+    {
+        "id": "USR005",
+        "name": "Vikram Singh",
+        "age": 23,
+        "gender": "Male",
+        "contact": "9012345682",
+        "email": "vikram.singh@example.com",
+        "address": "Delhi, India",
+        "membership_type": "Regular"
+    },
+    {
+        "id": "USR006",
+        "name": "Ishita Roy",
+        "age": 22,
+        "gender": "Female",
+        "contact": "9012345683",
+        "email": "ishita.roy@example.com",
+        "address": "Kolkata, West Bengal",
+        "membership_type": "Premium"
+    },
+    {
+        "id": "USR007",
+        "name": "Aditya Mehta",
+        "age": 24,
+        "gender": "Male",
+        "contact": "9012345684",
+        "email": "aditya.mehta@example.com",
+        "address": "Pune, Maharashtra",
+        "membership_type": "Regular"
+    },
+    {
+        "id": "USR008",
+        "name": "Priyanka Nair",
+        "age": 21,
+        "gender": "Female",
+        "contact": "9012345685",
+        "email": "priyanka.nair@example.com",
+        "address": "Thiruvananthapuram, Kerala",
+        "membership_type": "Premium"
+    },
+    {
+        "id": "USR009",
+        "name": "Karan Patel",
+        "age": 23,
+        "gender": "Male",
+        "contact": "9012345686",
+        "email": "karan.patel@example.com",
+        "address": "Ahmedabad, Gujarat",
+        "membership_type": "Regular"
+    },
+    {
+        "id": "USR010",
+        "name": "Meera Joshi",
+        "age": 22,
+        "gender": "Female",
+        "contact": "9012345687",
+        "email": "meera.joshi@example.com",
+        "address": "Jaipur, Rajasthan",
+        "membership_type": "Premium"
+    }
+]

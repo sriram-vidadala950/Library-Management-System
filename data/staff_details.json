@@ -1,0 +1,37 @@
+[
+    {
+        "id": "STF001",
+        "name": "Ravi Kumar",
+        "email": "ravi.kumar@example.com",
+        "phone": "9876543210",
+        "role": "Librarian"
+    },
+    {
+        "id": "STF002",
+        "name": "Suresh Babu",
+        "email": "suresh.babu@example.com",
+        "phone": "9876543211",
+        "role": "Assistant Librarian"
+    },
+    {
+        "id": "STF003",
+        "name": "Anjali Reddy",
+        "email": "anjali.reddy@example.com",
+        "phone": "9876543212",
+        "role": "Accountant"
+    },
+    {
+        "id": "STF004",
+        "name": "Manoj Varma",
+        "email": "manoj.varma@example.com",
+        "phone": "9876543213",
+        "role": "Clerk"
+    },
+    {
+        "id": "STF005",
+        "name": "Priya Sharma",
+        "email": "priya.sharma@example.com",
+        "phone": "9876543214",
+        "role": "Assistant Librarian"
+    }
+]

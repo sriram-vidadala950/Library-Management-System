@@ -1,0 +1,52 @@
+[
+    {
+        "id": "USR001",
+        "username": "arjun.r",
+        "password": "Arjun@123"
+    },
+    {
+        "id": "USR002",
+        "username": "sneha.s",
+        "password": "Sneha@123"
+    },
+    {
+        "id": "USR003",
+        "username": "rohan.k",
+        "password": "Rohan@123"
+    },
+    {
+        "id": "USR004",
+        "username": "ananya.v",
+        "password": "Ananya@123"
+    },
+    {
+        "id": "USR005",
+        "username": "vikram.s",
+        "password": "Vikram@123"
+    },
+    {
+        "id": "USR006",
+        "username": "ishita.r",
+        "password": "Ishita@123"
+    },
+    {
+        "id": "USR007",
+        "username": "aditya.m",
+        "password": "Aditya@123"
+    },
+    {
+        "id": "USR008",
+        "username": "priyanka.n",
+        "password": "Priyanka@123"
+    },
+    {
+        "id": "USR009",
+        "username": "karan.p",
+        "password": "Karan@123"
+    },
+    {
+        "id": "USR010",
+        "username": "meera.j",
+        "password": "Meera@123"
+    }
+]

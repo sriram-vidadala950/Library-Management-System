@@ -1,0 +1,90 @@
+[
+  {
+    "user_id": "USR001",
+    "books_rented": [
+      {
+        "book_id": "BK001",
+        "title": "Ponniyin Selvan",
+        "author": "Kalki Krishnamurthy",
+        "language": "Tamil",
+        "issue_date": "2025-10-01",
+        "due_date": "2025-10-31",
+        "returned": false
+      },
+      {
+        "book_id": "BK002",
+        "title": "Malgudi Days",
+        "author": "R. K. Narayan",
+        "language": "English",
+        "issue_date": "2025-10-05",
+        "due_date": "2025-11-04",
+        "returned": false
+      }
+    ]
+  },
+  {
+    "user_id": "USR002",
+    "books_rented": [
+      {
+        "book_id": "BK003",
+        "title": "The White Tiger",
+        "author": "Aravind Adiga",
+        "language": "English",
+        "issue_date": "2025-10-03",
+        "due_date": "2025-11-02",
+        "returned": false
+      }
+    ]
+  },
+  {
+    "user_id": "USR003",
+    "books_rented": [
+      {
+        "book_id": "BK004",
+        "title": "Yajnaseni",
+        "author": "Pratibha Ray",
+        "language": "Odia",
+        "issue_date": "2025-10-06",
+        "due_date": "2025-11-05",
+        "returned": false
+      },
+      {
+        "book_id": "BK005",
+        "title": "Pather Panchali",
+        "author": "Bibhutibhushan Bandyopadhyay",
+        "language": "Bengali",
+        "issue_date": "2025-10-08",
+        "due_date": "2025-11-07",
+        "returned": false
+      }
+    ]
+  },
+  {
+    "user_id": "USR004",
+    "books_rented": [
+      {
+        "book_id": "BK006",
+        "title": "Swami and Friends",
+        "author": "R. K. Narayan",
+        "language": "English",
+        "issue_date": "2025-10-10",
+        "due_date": "2025-11-09",
+        "returned": false
+      }
+    ]
+  },
+  {
+    "user_id": "USR005",
+    "books_rented": [
+      {
+        "book_id": "BK007",
+        "title": "The Guide",
+        "author": "R. K. Narayan",
+        "language": "English",
+        "issue_date": "2025-10-12",
+        "due_date": "2025-11-11",
+        "returned": false
+      }
+    ]
+  }
+]

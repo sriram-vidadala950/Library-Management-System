@@ -1,0 +1,12 @@
+[
+    {"id": "B001", "title": "Panchatantra Tales", "author": "Vishnu Sharma", "publisher": "Classic Pub", "language": "Telugu", "copies": 5},
+    {"id": "B002", "title": "Python Basics", "author": "John Doe", "publisher": "Tech Books", "language": "English", "copies": 10},
+    {"id": "B003", "title": "Ramayana Story", "author": "Valmiki", "publisher": "Epic Pub", "language": "Telugu", "copies": 4},
+    {"id": "B004", "title": "Data Science Fundamentals", "author": "Jane Doe", "publisher": "Tech Books", "language": "English", "copies": 7},
+    {"id": "B005", "title": "Mahabharata Epic", "author": "Vyasa", "publisher": "Epic Pub", "language": "Telugu", "copies": 6},
+    {"id": "B006", "title": "Machine Learning Guide", "author": "Alice Smith", "publisher": "Tech World", "language": "English", "copies": 8},
+    {"id": "B007", "title": "Bhagavad Gita", "author": "Vyasa", "publisher": "Spiritual Pub", "language": "Sanskrit", "copies": 3},
+    {"id": "B008", "title": "Learn Java", "author": "Bob Johnson", "publisher": "Tech Books", "language": "English", "copies": 9},
+    {"id": "B009", "title": "Telugu Short Stories", "author": "Kavi Reddy", "publisher": "Story Pub", "language": "Telugu", "copies": 5},
+    {"id": "B010", "title": "Advanced Python", "author": "John Doe", "publisher": "Tech Books", "language": "English", "copies": 6}
+]
